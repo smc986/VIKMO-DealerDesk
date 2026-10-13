@@ -1,0 +1,19 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+node_modules/
+.idea/
+.vscode/
+*.sqlite3
+.DS_Store
+
+# Environment and local secrets
+.env.*
+
+# Test and coverage artifacts
+.coverage
+htmlcov/
+.pytest_cache/
